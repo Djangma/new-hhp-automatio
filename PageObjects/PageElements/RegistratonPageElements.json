@@ -1,0 +1,9 @@
+{
+    "RegistrationPageLocators": {
+      "userName_text": ".focusable > #patient-register-name",
+      "userEmail_text": ".focusable > #patient-register-email",
+      "userPassword_text": ".focusable > #patient-register-password", 
+      "register_button": ".display-flex"
+    }
+  }
+  

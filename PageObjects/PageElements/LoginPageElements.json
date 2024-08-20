@@ -1,0 +1,7 @@
+{
+    "LoginPageLocators": {
+      "userEmail_text": ".focusable > #login-email",
+      "password_text": "[label='Password'] > .position-relative > .focusable",
+      "login_button": ".primary"
+    }
+  }
